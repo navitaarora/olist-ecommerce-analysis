@@ -52,7 +52,13 @@ The dataset was analysed in Google BigQuery using SQL queries with joins, aggreg
 *Reduce dependence on SP by growing sales and sellers in other regions.
 *Keep credit card and instalment payment options available.
 *Focus promotion and stock on top-GMV categories (health_beauty, watches_gifts) and high-value categories (computers).
-*Increase same-state fulfilment as different state orders take 15.0 vs 7.9 days to deliver and cost R$ 23.63 vs R$ 13.45 in freight.
+*Increase same-state fulfilment, as different-state orders take 15.0 vs 7.9 days to deliver and cost R$ 23.63 vs R$ 13.45 in freight.
+
+**Limitations**
+*Months covered: Orders run from September 2016 to October 2018, but September and October 2018 hold only 20 orders, so 2018 is effectively January to August.
+*Costs and margins are not in the dataset, so findings are about revenue, not profit.
+*610 products have no category and appear as "unknown".
+
 
 ## Repository Structure
 ```
