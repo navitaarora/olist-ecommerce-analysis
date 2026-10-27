@@ -79,12 +79,14 @@ To analyse data from Olist’s Brazilian e-commerce marketplace through data cle
 
 
 *Limitations*
-Orders run from September 2016 to October 2018, but September and October 2018 have only 20 orders, so 2018 orders are effective from only  January to August.
-610 products have no category and appear as "unknown".
-As the analysis is at the state level, the geolocation table was not included in the project
+*Orders run from September 2016 to October 2018, but September and October 2018 have only 20 orders, so 2018 orders are effective from only  January to August.
+
+*610 products have no category and appear as "unknown".
+
+*As the analysis is at the state level, the geolocation table was not included in the project
 
 
-## * Repository Structure*
+##  Repository Structure
 ```
 olist-ecommerce-analytics/
 ├── README.md
