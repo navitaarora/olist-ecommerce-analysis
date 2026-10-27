@@ -58,16 +58,23 @@ To analyse data from Olist’s Brazilian e-commerce marketplace through data cle
 ### **Key Insights (All Dashboards)**
 
 * Scale: 99,441 orders, R\$ 13.59M item GMV and R\$ 2.25M freight value, with an average review score of 4.09.
+  
 * Sales are concentrated in some regions: SP brings R\$ 5.20M GMV, and SP, RJ, and MG together bring R\$ 8.61M GMV.
+  
 * There are 73 product categories(excluding unknown), with an average product price of R\$ 120.65.
+  
 * 93.23% of delivered orders arrived on time and 6.77% late, with an average delivery time of 12.56 days.
+  
 * Credit card carries about R\$ 12.54M of payment value. Boleto is next at about R\$ 2.87M, debit card at R\$ 0.22M, and voucher at R\$ 0.38M.
 
 
  **Recommendations**
 *Review delivery estimates in the states with the most late orders.
+
 *Reduce dependence on one region by growing sales and sellers in other regions.
+
 *Keep credit card and instalment payment options available. 
+
 *Focus category promotion on the top-selling and high-value categories.
 
 
