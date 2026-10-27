@@ -1,7 +1,7 @@
 # **Olist E-Commerce Business Intelligence \& Performance Analytics**
 
 **Project Objective**  
-To analyse data from Olist’s Brazilian e-commerce marketplace through data cleaning and validation, data modelling, data visualisation in Tableau to evaluate business performance and derive actionable insights.
+To analyse data from Olist’s Brazilian e-commerce marketplace through data cleaning and validation, data modelling, and data visualisation in Tableau to evaluate business performance and derive actionable insights.
 
 
 **Dataset**  
