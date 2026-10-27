@@ -19,12 +19,12 @@ To analyse data from Olist’s Brazilian e-commerce marketplace through data cle
 | SQL analysis | Google BigQuery |
 
 
-**Methodology**
-
-1. Data cleaning (Power Query) – set data types, handled missing values, validated every total against the source.
-2. Data modelling (Tableau) – linked the 8 tables with relationships (not joins).
-3. Dashboards (Tableau) – built 4 interactive dashboards.
-4. SQL analysis (BigQuery) – answered business questions using joins, aggregations, and date functions.
+## Methodology
+1. **Data Preparation & Validation (Excel, Power Query):** Profiled and cleaned 8 source tables individually: enforced data types, verified primary-key uniqueness, treated missing values by business context, and reconciled row counts and totals against the raw files.
+2. **Data Modelling (Tableau):** Designed a relational data model with `orders` as the central table, linking customers, order items, payments, reviews, products, category translations, and sellers through Tableau relationships.
+3. **Dashboard Development (Tableau):** Developed 4 interactive dashboards (Executive Overview, Products & Categories, Supply Chain & Operations, Seller & Payment Analytics) with KPI cards, year and state filters, and cross-dashboard navigation.
+4. **SQL Analysis (Google BigQuery):** Analysed the cleaned data using SQL (joins, CASE logic, aggregations, date functions) to answer key business questions.
+5. **Insight Synthesis & Recommendations:** Consolidated dashboard and SQL findings into key business insights and 4 evidence-backed recommendations.
 
 **Dashboards**
 
