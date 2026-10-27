@@ -51,7 +51,7 @@ The dataset was analysed in Google BigQuery using SQL queries with joins, aggreg
 
 ```
 
-olist-ecommerce-analysis/
+olist-ecommerce-analytics/
 
 ├── README.md
 
