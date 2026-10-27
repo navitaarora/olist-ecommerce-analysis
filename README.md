@@ -70,22 +70,22 @@ To analyse data from Olist’s Brazilian e-commerce marketplace through data cle
 
  **Recommendations**
  
-*Review delivery estimates in the states with the most late orders.
+Review delivery estimates in the states with the most late orders.
 
-*Reduce dependence on one region by growing sales and sellers in other regions.
+Reduce dependence on one region by growing sales and sellers in other regions.
 
-*Keep credit card and instalment payment options available. 
+Keep credit card and instalment payment options available. 
 
-*Focus category promotion on the top-selling and high-value categories.
+Focus category promotion on the top-selling and high-value categories.
 
 
 *Limitations*
 
-*Orders run from September 2016 to October 2018, but September and October 2018 have only 20 orders, so 2018 orders are effective from only  January to August.
+Orders run from September 2016 to October 2018, but September and October 2018 have only 20 orders, so 2018 orders are effective from only  January to August.
 
-*610 products have no category and appear as "unknown".
+610 products have no category and appear as "unknown".
 
-*As the analysis is at the state level, the geolocation table was not included in the project
+As the analysis is at the state level, the geolocation table was not included in the project
 
 
 ##  Repository Structure
