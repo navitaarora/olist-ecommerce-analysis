@@ -21,8 +21,11 @@ To analyse data from Olist’s Brazilian e-commerce marketplace through data cle
 
 ## Methodology
 **Data Preparation & Validation (Excel, Power Query):** Cleaned 8 source tables individually in Excel and Power Query and validated the row count against the data source.
+
 **Data Modelling (Tableau):** Built a data model with orders as the central table, linking customers, order items, payments, reviews, products, category translations, and sellers through Tableau relationships.
+
 **Dashboard (Tableau):** Developed 4 interactive dashboards (Executive Overview, Products & Categories, Supply Chain & Operations, Seller & Payment Analytics) with cross-dashboard navigation.
+
 **Insight & Recommendations:** Consolidated dashboard  findings into key business insights and 4 evidence-based recommendations.
 
 **Dashboards**
