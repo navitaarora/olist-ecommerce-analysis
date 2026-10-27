@@ -48,15 +48,13 @@ To analyse data from Olist’s Brazilian e-commerce marketplace through data cle
 The dataset was analysed in Google BigQuery using SQL queries with joins, aggregations, and date functions.
 
  **Recommendations**
-Review delivery estimates and carriers in AL, MA, and SE, the states with the most late orders.
-Reduce dependence on SP by growing sales and sellers in other regions.
-Keep credit card and instalment payment options available.
-Focus promotion and stock on top-GMV categories (health_beauty, watches_gifts) and high-value categories (computers).
+*Review delivery estimates and carriers in AL, MA, and SE, the states with the most late orders.
+*Reduce dependence on SP by growing sales and sellers in other regions.
+*Keep credit card and instalment payment options available.
+*Focus promotion and stock on top-GMV categories (health_beauty, watches_gifts) and high-value categories (computers).
 
-
-
- ## **Repository Structure**
-
+## Repository Structure
+```
 olist-ecommerce-analytics/
 ├── README.md
 ├── 01_sql/
@@ -72,6 +70,6 @@ olist-ecommerce-analytics/
 │   └── seller_payment_analytics.png
 └── 05_report/
     └── Olist_E-Commerce_Business_Intelligence_Performance_Analytics_Project_Report.pdf
-**Made by:** Navita Arora  
-**LinkedIn:** [www.linkedin.com/in/navitaarora123](http://www.linkedin.com/in/navitaarora123)
+```
+
 
